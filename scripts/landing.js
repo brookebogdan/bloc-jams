@@ -12,7 +12,6 @@ var revealPoint = function(point) {
   };
 
 window.onload = function() {
-
   if (window.innerHeight > 950) {
     animatePoints(pointsArray);
   }
